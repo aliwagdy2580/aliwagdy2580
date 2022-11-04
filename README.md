@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Wagdy
-- 👀 I’m interested in ML, DL, NLP, CV,DS
+- 👀 I’m interested in ML, DL, NLP, CV, DS
 - 📫 How to reach me aliwagdyselim@gmail.com
 
 <!---
